@@ -1,7 +1,9 @@
 # Hey There I'm Ryan
 
 ## My Whack Tastes In Languages:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=00ryanwelzel&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00ryanwelzel&layout=compact)
+
+
 
 <!--
 **00ryanwelzel/00ryanwelzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
