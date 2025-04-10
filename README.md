@@ -1,6 +1,4 @@
 # Hey There I'm Ryan
-
-## 💫 About Me:
 ## making stuff that at least one person will find interesting
 
 ## 🌐 Socials:
