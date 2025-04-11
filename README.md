@@ -1,5 +1,5 @@
 # Hey There I'm Ryan
-## making stuff that at least one person will find interesting
+## ⭐ I like to make stuff that some guy out there will find interesting!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-welzel-472bba282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryantwelzel@gmail.com) 
